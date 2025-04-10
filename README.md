@@ -3,3 +3,4 @@
   <img src="https://img.shields.io/twitter/follow/immunity"/>
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=50SACINMYSOCIDGAF&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
